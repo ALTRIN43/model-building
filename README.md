@@ -1,4 +1,5 @@
-**Regression Models - Linear and Polynomial**
+**Regression Models - Linear and Polynomial**<br>
+
 *This project demonstrates the use of different regression techniques to fit a model to a dataset. It covers:*
 
 Linear Regression (Single Variable): Fits a straight line to the data with a single feature.
