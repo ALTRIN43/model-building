@@ -8,7 +8,7 @@ Polynomial Regression (Single Variable): Fits a polynomial curve to the data.<br
 Pipeline for Polynomial Scaling and Linear Regression: Demonstrates how to scale features and use linear regression in a pipeline for polynomial regression.<br>
 Additionally, the project evaluates the performance of each regression model using metrics like Mean Squared Error (MSE) and R-squared (R²).<br>
 <br>
-**Features**<br>
+**Features:**<br>
 <br>
 Linear Regression (Single Variable): A model with one feature.<br>
 Linear Regression (Multiple Variables): A model with more than one feature.<br>
